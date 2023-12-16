@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "basscss": "^8.0.2",
+    "chart.js": "^4.3.0"
+  }
+}
